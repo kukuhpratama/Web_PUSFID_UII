@@ -1,0 +1,165 @@
+body
+{
+	font-family: 'Nunito', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6
+{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+	margin: 0px;
+}
+
+.navbar
+{
+	margin-bottom: 0px;
+	background-color: #02386b;
+	border: #02386b
+
+}
+
+.navbar-default .navbar-nav > li > a 
+{
+    color: #eaeaea;
+
+}
+
+.navbar-default .navbar-nav > li > a:hover
+{
+    color: #fff;
+
+}
+
+.navbar-default .navbar-brand 
+{
+    color: #eaeaea;
+}
+
+.navbar-default .navbar-brand:hover 
+{
+    color: #fff;
+}
+.slider img
+{
+	width: 100%;
+
+
+}
+.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img
+{
+	height: 500px;
+}
+.slider .carousel-inner .carousel-caption 
+{
+	/*opacity: 0.5;*/
+	margin-bottom: 280px;
+
+
+}
+
+.slider .carousel-inner .carousel-caption img
+{
+	height: 135px;
+	width: 500px;
+
+}
+
+.slider .carousel-inner #isi
+{
+	margin-top: 300px;
+	margin-bottom: 2%;
+	background-color: grey;
+	opacity: 0.6
+}
+
+
+.fasilitas {
+    padding-top: 80px;
+    padding-bottom: 100px;
+    
+}
+
+.fasilitas h1
+{
+	font-size: 22px;
+	margin-bottom: 50px;
+
+}
+.fasilitas p
+{
+	text-align: justify;;
+
+}
+.fasilitas .pendahuluan
+{
+	text-align: center;
+}
+
+.fasilitas h2
+{
+	font-size: 16px;
+}
+
+
+.profile
+{
+	padding-top: 70px;
+	padding-bottom: 100px;
+	background-color: lightgrey;
+
+}
+.profile p 
+{
+	text-align: justify;
+}
+
+.profile img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.profile h1
+{
+	font-size: 22px;
+	margin-bottom: 20px;
+}
+
+
+.hubungi h2
+{
+	font-size: 22px;
+	margin-bottom: 20px;
+	margin-top: 30px;
+	text-align: center;
+}
+
+.hubungi
+{
+	padding-top: 30px;
+	padding-bottom: 50px;
+	
+
+}
+
+.hubungi ul li
+{
+	list-style: none;
+	margin-left: 200px;
+}
+
+.footer
+{
+	background-color: #02386b;
+	height: 50px;
+}
+
+.footer p
+{
+
+	margin-top: 20px;
+	color:#f4f4f4;
+}
